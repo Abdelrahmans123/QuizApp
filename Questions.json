@@ -1,0 +1,335 @@
+[
+    {
+        "category": "HTML",
+        "title": "Why do we use the <br> element?",
+        "answer_1": "To make text bold",
+        "answer_2": "To make text italic",
+        "answer_3": "To add a line break",
+        "answer_4": "To add a horizontal line",
+        "rightAnswer": "To add a line break"
+    },
+    {
+        "category": "HTML",
+        "title": "What is the purpose of the <p> element?",
+        "answer_1": "To define a paragraph",
+        "answer_2": "To display an image",
+        "answer_3": "To create a table",
+        "answer_4": "To add a hyperlink",
+        "rightAnswer": "To define a paragraph"
+    },
+    {
+        "category": "HTML",
+        "title": "Which tag is used for creating an unordered list?",
+        "answer_1": "<ul>",
+        "answer_2": "<ol>",
+        "answer_3": "<li>",
+        "answer_4": "<p>",
+        "rightAnswer": "<ul>"
+    },
+    {
+        "category": "HTML",
+        "title": "What does the <a> tag stand for?",
+        "answer_1": "Anchor",
+        "answer_2": "Abbreviation",
+        "answer_3": "Article",
+        "answer_4": "Aside",
+        "rightAnswer": "Anchor"
+    },
+    {
+        "category": "HTML",
+        "title": "Which tag is used to define a table header?",
+        "answer_1": "<th>",
+        "answer_2": "<td>",
+        "answer_3": "<tr>",
+        "answer_4": "<caption>",
+        "rightAnswer": "<th>"
+    },
+    {
+        "category": "HTML",
+        "title": "What is the purpose of the <img> tag?",
+        "answer_1": "To define a hyperlink",
+        "answer_2": "To display an image",
+        "answer_3": "To create a form",
+        "answer_4": "To add a video",
+        "rightAnswer": "To display an image"
+    },
+    {
+        "category": "HTML",
+        "title": "Which tag is used to create a line break within a paragraph?",
+        "answer_1": "<br>",
+        "answer_2": "<p>",
+        "answer_3": "<hr>",
+        "answer_4": "<a>",
+        "rightAnswer": "<br>"
+    },
+    {
+        "category": "HTML",
+        "title": "What is the purpose of the <div> tag?",
+        "answer_1": "To define a heading",
+        "answer_2": "To create a form",
+        "answer_3": "To group content",
+        "answer_4": "To add a list",
+        "rightAnswer": "To group content"
+    },
+    {
+        "category": "HTML",
+        "title": "Which tag is used to emphasize text?",
+        "answer_1": "<strong>",
+        "answer_2": "<em>",
+        "answer_3": "<code>",
+        "answer_4": "<pre>",
+        "rightAnswer": "<em>"
+    },
+    {
+        "category": "HTML",
+        "title": "What is the purpose of the <h1> to <h6> tags?",
+        "answer_1": "To define a hyperlink",
+        "answer_2": "To create a form",
+        "answer_3": "To specify different heading levels",
+        "answer_4": "To add a video",
+        "rightAnswer": "To specify different heading levels"
+    },
+    {
+        "category": "HTML",
+        "title": "Which tag is used to highlight computer code?",
+        "answer_1": "<code>",
+        "answer_2": "<pre>",
+        "answer_3": "<kbd>",
+        "answer_4": "<var>",
+        "rightAnswer": "<code>"
+    },
+    {
+        "category": "CSS",
+        "title": "What does CSS stand for?",
+        "answer_1": "Cascading Style Sheets",
+        "answer_2": "Creative Style System",
+        "answer_3": "Computer Style Solutions",
+        "answer_4": "Colorful Style Sheets",
+        "rightAnswer": "Cascading Style Sheets"
+    },
+    {
+        "category": "CSS",
+        "title": "What is the purpose of the <span> tag?",
+        "answer_1": "To define a section of text",
+        "answer_2": "To create a hyperlink",
+        "answer_3": "To style inline elements",
+        "answer_4": "To add a line break",
+        "rightAnswer": "To style inline elements"
+    },
+    {
+        "category": "HTML",
+        "title": "Which tag is used to define an input field for user input?",
+        "answer_1": "<div>",
+        "answer_2": "<input>",
+        "answer_3": "<form>",
+        "answer_4": "<button>",
+        "rightAnswer": "<input>"
+    },
+    {
+        "category": "HTML",
+        "title": "What is the purpose of the <blockquote> tag?",
+        "answer_1": "To display a block of code",
+        "answer_2": "To highlight a quote",
+        "answer_3": "To create a table",
+        "answer_4": "To add a horizontal line",
+        "rightAnswer": "To highlight a quote"
+    },
+    {
+        "category": "HTML",
+        "title": "Which tag is used to define an ordered list?",
+        "answer_1": "<ol>",
+        "answer_2": "<ul>",
+        "answer_3": "<li>",
+        "answer_4": "<p>",
+        "rightAnswer": "<ol>"
+    },
+    {
+        "category": "HTML",
+        "title": "What is the purpose of the <label> tag?",
+        "answer_1": "To define a heading",
+        "answer_2": "To create a form",
+        "answer_3": "To group content",
+        "answer_4": "To associate a label with a form control",
+        "rightAnswer": "To associate a label with a form control"
+    },
+    {
+        "category": "CSS",
+        "title": "What does CSS stand for?",
+        "answer_1": "Cascading Style Sheets",
+        "answer_2": "Creative Style System",
+        "answer_3": "Computer Style Solutions",
+        "answer_4": "Colorful Style Sheets",
+        "rightAnswer": "Cascading Style Sheets"
+    },
+    {
+        "category": "CSS",
+        "title": "What is the purpose of the <span> tag in CSS?",
+        "answer_1": "To define a section of text",
+        "answer_2": "To create a hyperlink",
+        "answer_3": "To style inline elements",
+        "answer_4": "To add a line break",
+        "rightAnswer": "To style inline elements"
+    },
+    {
+        "category": "CSS",
+        "title": "What is the correct CSS syntax for selecting an element by its ID?",
+        "answer_1": "#myElement",
+        "answer_2": ".myElement",
+        "answer_3": "element.myElement",
+        "answer_4": "element#myElement",
+        "rightAnswer": "#myElement"
+    },
+    {
+        "category": "CSS",
+        "title": "Which property is used to change the background color of an element in CSS?",
+        "answer_1": "color",
+        "answer_2": "font-family",
+        "answer_3": "background-color",
+        "answer_4": "text-align",
+        "rightAnswer": "background-color"
+    },
+    {
+        "category": "CSS",
+        "title": "Which CSS property is used to control the spacing between lines of text?",
+        "answer_1": "text-align",
+        "answer_2": "font-weight",
+        "answer_3": "line-height",
+        "answer_4": "text-decoration",
+        "rightAnswer": "line-height"
+    },
+    {
+        "category": "CSS",
+        "title": "What is the purpose of the CSS property 'float'?",
+        "answer_1": "To change the text color",
+        "answer_2": "To create a floating element",
+        "answer_3": "To add a border to an element",
+        "answer_4": "To center an element horizontally",
+        "rightAnswer": "To create a floating element"
+    },
+    {
+        "category": "CSS",
+        "title": "Which CSS property is used to set the font size of an element?",
+        "answer_1": "font-size",
+        "answer_2": "font-weight",
+        "answer_3": "text-decoration",
+        "answer_4": "line-height",
+        "rightAnswer": "font-size"
+    },
+    {
+        "category": "CSS",
+        "title": "What is the purpose of the CSS property 'margin'?",
+        "answer_1": "To change the text color",
+        "answer_2": "To create space inside an element",
+        "answer_3": "To add a border to an element",
+        "answer_4": "To control the space around an element",
+        "rightAnswer": "To control the space around an element"
+    },
+    {
+        "category": "CSS",
+        "title": "Which CSS property is used to change the color of text?",
+        "answer_1": "color",
+        "answer_2": "font-size",
+        "answer_3": "text-align",
+        "answer_4": "background-color",
+        "rightAnswer": "color"
+    },
+    {
+        "category": "CSS",
+        "title": "What is the purpose of the CSS property 'display: none'?",
+        "answer_1": "To change the font style",
+        "answer_2": "To hide an element",
+        "answer_3": "To add a border to an element",
+        "answer_4": "To center an element horizontally",
+        "rightAnswer": "To hide an element"
+    },
+    {
+        "category": "JavaScript",
+        "title": "What is JavaScript?",
+        "answer_1": "A markup language",
+        "answer_2": "A programming language",
+        "answer_3": "A database management system",
+        "answer_4": "A text editor",
+        "rightAnswer": "A programming language"
+    },
+    {
+        "category": "JavaScript",
+        "title": "What is the purpose of the `typeof` operator in JavaScript?",
+        "answer_1": "To determine the type of a variable",
+        "answer_2": "To define a new variable",
+        "answer_3": "To loop through an array",
+        "answer_4": "To perform mathematical calculations",
+        "rightAnswer": "To determine the type of a variable"
+    },
+    {
+        "category": "JavaScript",
+        "title": "What is the correct syntax for declaring a variable in JavaScript?",
+        "answer_1": "variable name = value;",
+        "answer_2": "var = value;",
+        "answer_3": "var name = value;",
+        "answer_4": "value = variable name;",
+        "rightAnswer": "var name = value;"
+    },
+    {
+        "category": "JavaScript",
+        "title": "Which function is used to print content to the console?",
+        "answer_1": "console.log()",
+        "answer_2": "print()",
+        "answer_3": "document.write()",
+        "answer_4": "log()",
+        "rightAnswer": "console.log()"
+    },
+    {
+        "category": "JavaScript",
+        "title": "What is the result of the following expression: 2 + '2'?",
+        "answer_1": "4",
+        "answer_2": "22",
+        "answer_3": "NaN",
+        "answer_4": "Error",
+        "rightAnswer": "22"
+    },
+    {
+        "category": "JavaScript",
+        "title": "Which operator is used to compare the value and type of two variables?",
+        "answer_1": "==",
+        "answer_2": "===",
+        "answer_3": "!=",
+        "answer_4": "<=",
+        "rightAnswer": "==="
+    },
+    {
+        "category": "JavaScript",
+        "title": "What is the purpose of the `for` loop in JavaScript?",
+        "answer_1": "To define a function",
+        "answer_2": "To perform mathematical calculations",
+        "answer_3": "To iterate over a block of code a specific number of times",
+        "answer_4": "To style HTML elements",
+        "rightAnswer": "To iterate over a block of code a specific number of times"
+    },
+    {
+        "category": "JavaScript",
+        "title": "Which function is used to convert a string to a number in JavaScript?",
+        "answer_1": "parseInt()",
+        "answer_2": "toString()",
+        "answer_3": "toFixed()",
+        "answer_4": "parseFloat()",
+        "rightAnswer": "parseInt()"
+    },
+    {
+        "category": "JavaScript",
+        "title": "What is the purpose of the `setTimeout()` function in JavaScript?",
+        "answer_1": "To create a delay before executing a function",
+        "answer_2": "To repeat a function at regular intervals",
+        "answer_3": "To compare two values",
+        "answer_4": "To add event listeners",
+        "rightAnswer": "To create a delay before executing a function"
+    },
+    {
+        "category": "JavaScript",
+        "title": "What is the purpose of the `addEventListener()` method in JavaScript?",
+        "answer_1": "To perform mathematical calculations",
+        "answer_2": "To create a loop",
+        "answer_3": "To add event handlers to HTML elements",
+        "answer_4": "To convert data types",
+        "rightAnswer": "To add event handlers to HTML elements"
+    }
+]
